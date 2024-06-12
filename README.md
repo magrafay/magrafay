@@ -6,7 +6,7 @@
 * 💬 Talk about anything [here](https://magrafay.com/contact).
 * 📚 open-source contributer.
 * 🍔 Currently developing TasteBuds.
-* 🎯 Portfolio site: [Portfolio](https://magrafay.com/portfolio).
+* 🎯 Portfolio site: [Portfolio](https://magrafay.com).
 * 📱 Love to build things Specially in iOS and Flutter.
 * ❤️ Love to explore new places.
 
@@ -22,7 +22,7 @@
 
 ![MAG Rafay Stats](https://github-readme-ranking.vercel.app/api/rank?username=magrafay&country_code=pakistan&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=magrafay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=212121">|<a href="https://stackoverflow.com/users/story/8038563"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8038563&theme=dark" height="190"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=magrafay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=212121">|<a href="https://stackoverflow.com/users/story/8038563"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14143386&theme=dark" height="190"></a>
 
 
 
