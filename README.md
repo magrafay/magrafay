@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋🏻, I'm MAG Rafay,
 
-<!--
-**magrafay/magrafay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A Senior Frontend Enigneer who loves to convert thoughts into code.
 
-Here are some ideas to get you started:
+* 📲 Wanna talk about new App, Contact me [here](https://magrafay.com/contact).
+* 💬 Talk about anything [here](https://magrafay.com/contact).
+* 📚 open-source contributer.
+* 🍔 Currently developing TasteBuds.
+* 🎯 Portfolio site: [Portfolio](https://magrafay.com/portfolio).
+* 📱 Love to build things Specially in iOS and Flutter.
+* ❤️ Love to explore new places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Love
+
+* React JS
+* Next JS
+* Node JS
+* SASS
+
+
+***Stats:***
+
+![MAG Rafay Stats](https://github-readme-ranking.vercel.app/api/rank?username=magrafay&country_code=pakistan&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api?username=magrafay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=212121">|<a href="https://stackoverflow.com/users/story/8038563"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8038563&theme=dark" height="190"></a>
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=magrafay&theme=radical)
+
+![](https://github-profile-trophy.vercel.app/?username=magrafay)
+
+
+### Reach me via 👇🏻
+
+<a href="https://magrafay.com/contact"><img src="https://i.ibb.co/v10DgBV/contact-logo-bw-1200.png" height=100></a>
+
