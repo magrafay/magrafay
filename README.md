@@ -7,7 +7,7 @@
 * 📚 open-source contributer.
 * 🍔 Currently developing TasteBuds.
 * 🎯 Portfolio site: [Portfolio](https://magrafay.com).
-* 📱 Love to build things Specially in iOS and Flutter.
+* 📱 Love to build things Specially in React JS and Next JS.
 * ❤️ Love to explore new places.
 
 ## 💻 Technologies I Love
