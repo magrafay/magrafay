@@ -6,7 +6,7 @@
 * 💬 Talk about anything [here](https://magrafay.com/contact).
 * 📚 open-source contributer.
 * 🍔 Currently developing TasteBuds.
-* 🎯 Portfolio site: [Portfolio](https://magrafay.com).
+* 🎯 Portfolio site: [Portfolio](https://magrafay.com/portfolio).
 * 📱 Love to build things Specially in React JS and Next JS.
 * ❤️ Love to explore new places.
 
