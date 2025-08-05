@@ -34,5 +34,5 @@
 
 ### Reach me via 👇🏻
 
-<a href="https://magrafay.com/contact"><img src="https://i.ibb.co/v10DgBV/contact-logo-bw-1200.png" height=100></a>
+<a href="https://magrafay.vercel.app/contact"><img src="https://i.ibb.co/v10DgBV/contact-logo-bw-1200.png" height=100></a>
 
